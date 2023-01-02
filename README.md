@@ -44,7 +44,7 @@
 
 <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
     <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Proposal <a href="Project_Proposal.pptx"> Proposal </a>.</p>
+        <p>Click here for Proposal <a href="Project_Proposal.pdf"> Proposal </a>.</p>
     </embed>
 </object>
 
