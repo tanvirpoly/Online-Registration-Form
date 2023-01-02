@@ -40,25 +40,11 @@
 
 
 
-
-
-<h1 id="test-title">Project video on Youtube</h1>
+<h1 id="test-title">Project Proposal</h1>
 
 <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
     <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Video <a href="https://youtu.be/la_qWon6x50"> YouTube </a>.</p>
-    </embed>
-</object>
-
----
-
-
-
-<h1 id="test-title">Project Presentation</h1>
-
-<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
-    <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Ppt <a href="Online_Restaurent.pptx"> Presentation </a>.</p>
+        <p>Click here for Proposal <a href="Project_Proposal.pptx"> Proposal </a>.</p>
     </embed>
 </object>
 
@@ -74,6 +60,8 @@
 </object>
 
 ---
+
+
 
 
 
